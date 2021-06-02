@@ -70,7 +70,7 @@ stevedore==1.31.0
 Top==1.0.0
 typed-ast==1.4.0
 typing-extensions==3.7.4
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==16.7.5
 Werkzeug==0.15.6
 wrapt==1.11.1
