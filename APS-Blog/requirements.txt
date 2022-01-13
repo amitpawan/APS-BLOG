@@ -39,7 +39,7 @@ passlib==1.7.1
 pbr==5.4.3
 pefile==2019.4.18
 pep8-naming==0.4.1
-Pillow==6.1.0
+Pillow==9.0.0
 prospector==1.1.7
 psycopg2==2.8.3
 pycodestyle==2.4.0
